@@ -17,6 +17,10 @@ Bu depo (repository) üç ana bölümden oluşmaktadır:
 * **Styling:** CSS
 * **Linting:** ESLint
 
+  ## 🔗 Canlı Demo
+Projenin çalışan halini buradan inceleyebilirsiniz:  
+🚀 **[The Vault Canlı Uygulama](https://beratemek.github.io/the-vault/)**
+
 ## 📦 Kurulum ve Çalıştırma
 
 Projeyi yerel bilgisayarınızda çalıştırmak için:
